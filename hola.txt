@@ -1,1 +1,4 @@
-Esto es un archivo de prueba.
+Acá vamos a registrar los cambios hechos al proyecto. 
+
+201031: Agregamos este archivo. 
+
